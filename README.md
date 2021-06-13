@@ -19,6 +19,7 @@
   </p>
 </p>
 
+This Website can show you the Weather, humidity and the windspeed from regions all across the world. It relies on the OpenWeatherAPI and I also incorporated the Unsplash API to give it a background related to the region, city or country of which the weather is shown. 
 
 ### Built With
 
