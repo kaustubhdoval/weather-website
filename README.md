@@ -11,7 +11,7 @@
     <a href="https://github.com/SKAI-24/weather-website"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://weather-website-app.netlify.app">View Demo</a>
+    <a href="https://weather-website-app.netlify.app" target="blank">View Demo</a>
     ·
     <a href="https://github.com/SKAI-24/weather-website/issues">Report Bug</a>
     ·
